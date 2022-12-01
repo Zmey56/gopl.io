@@ -8,9 +8,13 @@
 // See https://developer.github.com/v3/search/#search-issues.
 package github
 
-import "time"
+import (
+	"fmt"
+	"time"
+)
 
 const IssuesURL = "https://api.github.com/search/issues"
+const APIURL = "https://api.github.com"
 
 type IssuesSearchResult struct {
 	TotalCount int `json:"total_count"`
@@ -27,9 +31,11 @@ type Issue struct {
 	Body      string    // in Markdown format
 }
 
+func (i Issue) CacheURL() string {
+	return fmt.Sprintf("/issues/%d", i.Number)
+}
+
 type User struct {
 	Login   string
 	HTMLURL string `json:"html_url"`
 }
-
-//!-

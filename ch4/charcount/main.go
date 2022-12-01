@@ -35,6 +35,7 @@ func main() {
 			invalid++
 			continue
 		}
+
 		counts[r]++
 		utflen[n]++
 	}

@@ -5,20 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bc89cd-6a44-4919-861c-f21844021661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_10/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_11/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_12/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_13/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_6/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_7/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_8/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/ex_3_9/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/ex_4_14/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/ex_5_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/fetch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/findlinks1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_3/ex_5_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_3/fetch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_4/ex_5_4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_4/fetch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_6/plot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_7/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_8/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch5/ex_5_9/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/ex_2_3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/ex_2_3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/ex_2_4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/ex_2_4/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/ex_2_5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/ex_2_5/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/mandelbrot/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch3/mandelbrot/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/charcount/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/charcount/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_10/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_10/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_11/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_11/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_12/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_12/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_13/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_13/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_3/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_4/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_5/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_6/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_6/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_7/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_7/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_8/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_8/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/ex_4_9/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_9/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/github/create.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/github/create.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/github/github.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/github/github.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch4/github/search.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/github/search.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +62,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GJ8L74hrRDZ0MEddpLqIZTYZxZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="flattenPackages" value="true" />
@@ -52,6 +76,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -61,7 +86,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zmey56/Documents/Learning/gopl.io/ch2/ex_2_3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zmey56/Documents/Learning/gopl.io/ch5/ex_5_2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +97,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch5/ex_5_2" />
       <recent name="$PROJECT_DIR$/ch2/ex_2_3" />
       <recent name="$PROJECT_DIR$/ch2/ex_2_2_lib" />
       <recent name="$PROJECT_DIR$/ch2/ex_2_1" />
@@ -108,7 +134,19 @@
       <workItem from="1668415392303" duration="5663000" />
       <workItem from="1668503504135" duration="3073000" />
       <workItem from="1668674983792" duration="5803000" />
-      <workItem from="1668761399572" duration="1480000" />
+      <workItem from="1668761399572" duration="2079000" />
+      <workItem from="1668845188037" duration="3662000" />
+      <workItem from="1669018288615" duration="2913000" />
+      <workItem from="1669100640063" duration="4741000" />
+      <workItem from="1669296250832" duration="2092000" />
+      <workItem from="1669366391166" duration="3935000" />
+      <workItem from="1669458335074" duration="4545000" />
+      <workItem from="1669535377160" duration="9000" />
+      <workItem from="1669547612616" duration="2485000" />
+      <workItem from="1669623517030" duration="2079000" />
+      <workItem from="1669715527811" duration="1856000" />
+      <workItem from="1669802677745" duration="3321000" />
+      <workItem from="1669883137223" duration="3236000" />
     </task>
     <servers />
   </component>
@@ -126,7 +164,21 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/ch4/sha256/main.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
