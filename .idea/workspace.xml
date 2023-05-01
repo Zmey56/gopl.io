@@ -5,42 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bc89cd-6a44-4919-861c-f21844021661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch4/ex_4_14/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/ex_5_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/fetch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/findlinks1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_3/ex_5_3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_3/fetch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_4/ex_5_4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_4/fetch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_6/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_6/plot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_7/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_8/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch5/ex_5_9/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Execise_1_3/exercse_1_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_1/exercise_1_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/helloworld/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/main" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/charcount/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/charcount/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_10/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_10/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_11/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_11/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_12/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_12/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_13/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_13/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_4/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_5/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_6/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_6/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_7/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_7/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_8/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_8/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/ex_4_9/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/ex_4_9/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/github/create.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/github/create.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/github/github.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/github/github.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/github/search.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch4/github/search.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_1/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_10/data_url.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_10/ex_1_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_10/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/data_url.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/ex_1_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/top-1m.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_12/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/Exercise_1_2/exercise_1_2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_3/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/dup4.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_5/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_5/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_5/out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_6/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_6/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_6/out.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_7/ex_1_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_7/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_8/ex_1_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_8/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_9/ex_1_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/ex_1_9/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -74,29 +73,35 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zmey56/Documents/Learning/gopl.io/ch5/ex_5_2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "zmey56@gmail.com",
+    "ACTIVE_CLOUD_PROJECT_ID": "p2ptelegramfirst",
+    "ACTIVE_CLOUD_PROJECT_NAME": "P2PTelegramFirst",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "917216572592",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultGoTemplateProperty": "Go Application",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.google.cloudcode.ide_session_index": "20230501_0001",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch1" />
       <recent name="$PROJECT_DIR$/ch5/ex_5_2" />
       <recent name="$PROJECT_DIR$/ch2/ex_2_3" />
       <recent name="$PROJECT_DIR$/ch2/ex_2_2_lib" />
@@ -147,6 +152,8 @@
       <workItem from="1669715527811" duration="1856000" />
       <workItem from="1669802677745" duration="3321000" />
       <workItem from="1669883137223" duration="3236000" />
+      <workItem from="1682756875260" duration="625000" />
+      <workItem from="1682923426524" duration="2155000" />
     </task>
     <servers />
   </component>
