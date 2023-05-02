@@ -5,40 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bc89cd-6a44-4919-861c-f21844021661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch1/Execise_1_3/exercse_1_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_1/exercise_1_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/helloworld/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_4/exercise_1_4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_4/tmp1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_4/tmp2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_4/tmp3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_4/tmp4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_4/tmp5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_1/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_10/data_url.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_10/ex_1_10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_10/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/data_url.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/ex_1_11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_11/top-1m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_12/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/Exercise_1_2/exercise_1_2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_3/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/dup4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_4/tmp_5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_5/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_5/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_5/out.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_6/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_6/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_6/out.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_7/ex_1_7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_7/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_8/ex_1_8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_8/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_9/ex_1_9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ex_1_9/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/Execise_1_3/exercise_1_3.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/Exercise_1_3/exercise_1_3.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +61,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230501_0001",
+    "com.google.cloudcode.ide_session_index": "20230502_0001",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch1",
@@ -107,6 +81,25 @@
       <recent name="$PROJECT_DIR$/ch2/ex_2_2_lib" />
       <recent name="$PROJECT_DIR$/ch2/ex_2_1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -153,7 +146,8 @@
       <workItem from="1669802677745" duration="3321000" />
       <workItem from="1669883137223" duration="3236000" />
       <workItem from="1682756875260" duration="625000" />
-      <workItem from="1682923426524" duration="2155000" />
+      <workItem from="1682923426524" duration="2784000" />
+      <workItem from="1683015070549" duration="2837000" />
     </task>
     <servers />
   </component>
