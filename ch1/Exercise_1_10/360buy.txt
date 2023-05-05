@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html class="root61 jd_mac csstransitions cssanimations o2_webkit o2_chrome o2_latest o2_wide">
+  <head>
+    <meta charset="utf-8" />
+    <title>京东全球版-专业的综合网上购物商城</title>
+    <meta name="keywords" content="网上购物,家电,手机,计算机,服装,国际,海外,居家,母婴,美妆,个护,食品,京东,集运,全球" />
+    <meta
+      name="description"
+      content="京东全球版-专业的综合网上购物商城，为您提供正品低价的购物选择、优质便捷的服务体验。商品来自全球数十万品牌商家，囊括家电、手机、计算机、服装、居家、母婴、美妆、个护、食品等丰富品类，满足各种购物需求。香港的用户支持自提、京东集运和国际卡支付，现时已覆盖香港、澳门、台湾、新加坡、马来西亚、美国、加拿大、澳大利亚、新西兰和日本等海外200多个国家和地区。"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if lte IE 8]>
+      <script src="//misc.360buyimg.com/mtd/pc/index/home/ie6tip.min.js"></script>
+    <![endif]-->
+    <link rel="icon" href="//www.jd.com/favicon.ico" mce_href="//www.jd.com/favicon.ico" type="image/x-icon" />
+    <link
+      source="widget"
+      rel="stylesheet"
+      href="//misc.360buyimg.com/channel/gangao/2.0.0/global/1.0.0/widget/??/common/common.css,/header/header.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://misc.360buyimg.com/??jdf/1.0.0/unit/shortcut/5.0.0/shortcut.css,jdf/1.0.0/unit/global-header/5.0.0/global-header.css,jdf/1.0.0/unit/myjd/5.0.0/myjd.css,jdf/1.0.0/unit/nav/5.0.0/nav.css,jdf/1.0.0/unit/shoppingcart/5.0.0/shoppingcart.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//misc.360buyimg.com/??jdf/1.0.0/unit/global-footer/5.0.0/global-footer.css,jdf/1.0.0/unit/service/5.0.0/service.css,channel/lib/1.2.0/css/channel-base.css"
+    />
+    <link
+      source="widget"
+      rel="stylesheet"
+      href="//misc.360buyimg.com/channel/gangao/2.0.0/global/1.0.0/widget/??/right-info-copy/right-info-copy.css,/service/service.css"
+    />
+        <script type="text/javascript">
+      !(function (e) {
+        ;(e.channelData = e.channelData || {}),
+          (e.channelData['floor-service'] = {
+            service1: '0101859',
+            service2: '0101858',
+            service3: '0101857',
+            service4: '0101856',
+            qrcode: '0301409',
+          })
+      })(window)
+    </script>
+    <script type="text/javascript">
+      !(function (a) {
+        ;(a.channelData = a.channelData || {}),
+          (a.channelData['floor-header'] = {
+            nav: '01011004',
+            search: '0101867',
+            hot: '0101863',
+            dt: { id: '0301921', noBak: 1 },
+            ztc: { id: '0301344', noBak: 1 },
+            fw: { id: '0301922', noBak: 1 },
+          })
+      })(window)
+    </script>
+       <script>
+      window.serverIdList = {
+        topReachedId: '0301921',
+        categoryId: '0101741',
+        bannerId: '05382124',
+        bannerBottomId: '06784833',
+        atmosphereId: '06817894',
+        messageListId: '06784803',
+        promoteId: '06813367',
+        rankingId: '06813443',
+        squareLeftId: '06813315',
+        squareRightId: '06813381',
+        recommendId: '12240015',
+        userIcon: '06784702',
+      }
+    </script>
+    <style>
+      .topReached {
+        width: 100%;
+        height: 80px;
+      }
+      .topReached a {
+        display: block;
+        margin: 0 auto;
+        width: 1190px;
+        height: 80px;
+      }
+      .topReached a img {
+        width: 1190px;
+        height: 80px;
+      }
+      #header .w {
+        width: 1190px;
+      }
+    </style>
+    <script
+      type="text/javascript"
+      src="//misc.360buyimg.com/jdf/??/1.0.0/unit/base/5.0.0/base.js,/lib/jquery-1.6.4.js"
+    ></script>
+    <script src="//misc.360buyimg.com/channel/gangao/6.0.0/hk/1.0.0/widget/header/header.js"></script>
+    <script
+      type="text/javascript"
+      src="//misc.360buyimg.com/??jdf/1.0.0/unit/base/5.0.0/base.js,jdf/lib/jquery-1.6.4.js,channel/lib/1.2.0/js/channel-base.js"
+    ></script>
+    <script src="https://h5static.m.jd.com/act/jd-jssdk/latest/jd-jssdk.min.js"></script>
+    <script>
+      try {
+        jmfe.jsagentInit({ flag: 298 }),
+          jmfe.profilerInit({
+            flag: 298,
+            autoReport: !0,
+            autoAddStaticReport: !0,
+            autoAddApiReport: !0,
+            autoAddImageReport: !0,
+            performanceReportTime: 8e3,
+            profilingRate: 1,
+          })
+      } catch (t) {
+        console.log(t)
+      }
+    </script>
+    <link
+      href="https://storage.360buyimg.com/retail-mall/overseas_pc/pre/0.0.15/css/main.6a3aca52.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <noscript>请使用高版本浏览器访问效果更好，推荐谷歌浏览器</noscript>
+    <div id="topBanner"></div>
+    <div id="shortcut-2014">
+      <div class="w">
+        <ul class="fl">
+          <li class="dorpdown" id="ttbar-mycity"></li>
+        </ul>
+        <ul class="fr">
+          <li class="fore1" id="ttbar-login">
+            <a href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a
+              href="javascript:regist();"
+              class="link-regist style-red"
+              >免费注册</a
+            >
+          </li>
+          <li class="spacer"></li>
+          <li class="fore2">
+            <div class="dt"><a target="_blank" href="//order.jd.com/center/list.action">我的订单</a></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore3 dorpdown" id="ttbar-myjd">
+            <div class="dt cw-icon">
+              <a target="_blank" href="//home.jd.com/">我的京东</a><i class="iconfont">&#xe605;</i>
+            </div>
+            <div class="dd dorpdown-layer"></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore4" id="ttbar-member">
+            <div class="dt"><a target="_blank" href="//vip.jd.com/">京东会员</a></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore5" id="ttbar-ent">
+            <div class="dt"><a target="_blank" href="//b.jd.com/">企业采购</a></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore6 dorpdown" id="ttbar-serv">
+            <div class="dt cw-icon">客户服务<i class="iconfont">&#xe605;</i></div>
+            <div class="dd dorpdown-layer"></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore7 dorpdown" id="ttbar-navs">
+            <div class="dt cw-icon">网站导航<i class="iconfont">&#xe605;</i></div>
+            <div class="dd dorpdown-layer"></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore8 dorpdown" id="ttbar-apps">
+            <div class="dt cw-icon">
+              <a target="_blank" href="//app.jd.com/">手机京东</a>
+              <div class="mobile_static"><div class="mobile_static_qrcode"></div></div>
+            </div>
+          </li>
+        </ul>
+        <span class="clr"></span>
+      </div>
+    </div>
+    <div id="o-header-2013"><div id="header-2013" style="display: none"></div></div>
+    <div id="header">
+      <div class="w">
+        <div id="logo" clstag="pageclick|keycount|hk|logo_01"></div>
+        <div id="search-2014">
+          <ul id="shelper" class="hide"></ul>
+          <div class="form">
+            <input
+              clstag="pageclick|keycount|hk|search_a"
+              onkeydown='13==event.keyCode&&search("key")'
+              autocomplete="off"
+              id="key"
+              accesskey="s"
+              class="text"
+            />
+            <button
+              clstag="pageclick|keycount|hk|search_b"
+              id="search-btn"
+              onclick='return search("key"),!1'
+              class="button cw-icon"
+            >
+              <i></i>
+            </button>
+            <a id="search-link" class="button cw-icon"><i></i></a>
+          </div>
+        </div>
+        <div id="settleup-2014" class="dorpdown" clstag="pageclick|keycount|hk|cart_01">
+          <div class="cw-icon">
+            <i class="iconfont">&#xe607;</i> <i class="iconfont arrow">&#xe601;;</i>
+            <a target="_blank" href="//cart.jd.com/cart.action">我的购物车</a>
+          </div>
+          <div class="dorpdown-layer">
+            <div class="spacer"></div>
+            <div id="settleup-content"><span class="loading"></span></div>
+          </div>
+        </div>
+        <div id="hotwords"></div>
+        <span class="clr"></span>
+        <ul id="nav-list" data-pool-id="0101452"></ul>
+      </div>
+    </div>
+    <div id="root"></div>
+    <div id="service-2017" data-channel="gangao" data-version="2.0.0" data-tpl="service" data-path="service">
+      <div class="w">
+        <ol class="slogen">
+          <li class="item fore1"><i>多</i>品类齐全，轻松购物</li>
+          <li class="item fore2"><i>快</i>多仓直发，极速配送</li>
+          <li class="item fore3"><i>好</i>正品行货，精致服务</li>
+          <li class="item fore4"><i>省</i>天天低价，畅选无忧</li>
+        </ol>
+      </div>
+      <div class="jd-help">
+        <div class="w clearfix">
+          <div class="p-logo"></div>
+          <div class="wrap">
+            <dl class="fore1"><dt>购物指南</dt></dl>
+            <dl class="fore2"><dt>物流配送</dt></dl>
+            <dl class="fore3"><dt>帮助中心</dt></dl>
+            <dl class="fore4"><dt>联系我们</dt></dl>
+            <dl class="fore5 focus"><dt>关注我们</dt></dl>
+            <span class="clr"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer-2017">
+      <div class="w">
+        <div class="copyright_links">
+          <p>
+            <a href="//about.jd.com" target="_blank">关于我们</a><span class="copyright_split">|</span>
+            <a href="//about.jd.com/contact/" target="_blank">联系我们</a><span class="copyright_split">|</span>
+            <a href="//help.jd.com/user/custom.html" target="_blank">联系客服</a><span class="copyright_split">|</span>
+            <a href="//vc.jd.com/cooperation.html" target="_blank">合作招商</a><span class="copyright_split">|</span>
+            <a href="//helpcenter.jd.com/venderportal/index.html" target="_blank">商家帮助</a
+            ><span class="copyright_split">|</span> <a href="//jzt.jd.com" target="_blank">营销中心</a
+            ><span class="copyright_split">|</span> <a href="//app.jd.com/" target="_blank">手机京东</a
+            ><span class="copyright_split">|</span> <a href="//club.jd.com/links.aspx" target="_blank">友情链接</a
+            ><span class="copyright_split">|</span> <a href="//media.jd.com/" target="_blank">销售联盟</a
+            ><span class="copyright_split">|</span> <a href="//club.jd.com/" target="_blank">京东社区</a
+            ><span class="copyright_split">|</span>
+            <a href="//sale.jd.com/act/FTrWPesiDhXt5M6.html" target="_blank">风险监测</a
+            ><span class="copyright_split">|</span> <a href="//about.jd.com/privacy/" target="_blank">隐私政策</a
+            ><span class="copyright_split">|</span> <a href="//gongyi.jd.com" target="_blank">京东公益</a
+            ><span class="copyright_split">|</span> <a href="//en.jd.com/" target="_blank">English Site</a
+            ><span class="copyright_split">|</span> <a href="//corporate.jd.com/" target="_blank">Media & IR</a>
+          </p>
+        </div>
+        <div class="copyright_info">
+          <p>
+            <a href="//www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088" target="_blank"
+              >京公网安备 11000002000088号</a
+            ><span class="copyright_split">|</span><a href="//beian.miit.gov.cn" target="_blank">京ICP备11041704号</a
+            ><span class="copyright_split">|</span>
+            <a
+              href="//h5.m.jd.com/pc/dev/tMGhqLCH7hf87LucBj2NPHuyKAb/index.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >ICP</a
+            ><span class="copyright_split">|</span>
+            <a href="//jdwp.jd.com/544-2927.html" target="_blank">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a
+            ><span class="copyright_split">|</span><span>新出发京零 字第大120007号</span>
+          </p>
+          <p>
+            <span>互联网出版许可证编号新出网证(京)字150号</span><span class="copyright_split">|</span>
+            <a href="//sale.jd.com/act/pQua7zovWdJfcIn.html" target="_blank">出版物经营许可证</a
+            ><span class="copyright_split">|</span>
+            <a
+              href="//img10.360buyimg.com/ling/jfs/t1/164806/19/5070/567736/6017d6d6Eab06ec9c/d8ca6e029f495447.jpg"
+              target="_blank"
+              >网络文化经营许可证京网文〔2020〕6112-1201号</a
+            ><span class="copyright_split">|</span><span>违法和不良信息举报电话：4006561155</span>
+          </p>
+          <p>
+            <span class="copyright_text">Copyright © 2004 - <em id="copyright_year">2018</em> 京东JD.com 版权所有</span
+            ><span class="copyright_split">|</span><span>消费者维权热线：4006067733</span>
+            <a href="//sale.jd.com/act/7Y0Rp81MwQqc.html" target="_blank" class="copyright_license">经营证照</a>
+            <span class="copyright_split">|</span> <span>(京)网械平台备字(2018)第00003号</span>
+            <span class="copyright_split">|</span>
+            <a
+              href="//h5.m.jd.com/babelDiy/Zeus/ARcYnJ8coUdUecn6UQAN6TDaVmH/index.html"
+              target="_blank"
+              class="mod_business_license"
+              >营业执照</a
+            >
+            <span class="copyright_split">|</span>
+            <a
+              href="//h5.m.jd.com/pc/dev/3YxBvN6m5TsRyVCvDSeEh7awmLB4/index.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >增值电信业务经营许可证</a
+            >
+          </p>
+          <p class="mod_copyright_inter">
+            <a
+              class="mod_copyright_inter_lk"
+              href="//www.joybuy.com/?source=1&visitor_from=3"
+              target="_blank"
+              clstag="h|keycount|btm|btmnavi_null0501"
+              ><i class="mod_copyright_inter_ico mod_copyright_inter_ico_global"></i
+              ><span class="languagefont">&#xe901;</span></a
+            >
+            <span class="copyright_split">|</span>
+            <a
+              class="mod_copyright_inter_lk"
+              href="//www.jd.ru/?source=1&visitor_from=3"
+              target="_blank"
+              clstag="h|keycount|btm|btmnavi_null0502"
+              ><i class="mod_copyright_inter_ico mod_copyright_inter_ico_rissia"></i
+              ><span class="languagefont">&#xe904;</span></a
+            >
+            <span class="copyright_split">|</span>
+            <a
+              class="mod_copyright_inter_lk"
+              href="//www.jd.id/?source=1&visitor_from=3"
+              target="_blank"
+              clstag="h|keycount|btm|btmnavi_null0503"
+              ><i class="mod_copyright_inter_ico mod_copyright_inter_ico_indonesia"></i
+              ><span class="languagefont">&#xe902;</span></a
+            >
+            <span class="copyright_split">|</span>
+            <a
+              class="mod_copyright_inter_lk"
+              href="//www.joybuy.es/?source=1&visitor_from=3"
+              target="_blank"
+              clstag="h|keycount|btm|btmnavi_null0504"
+              ><i class="mod_copyright_inter_ico mod_copyright_inter_ico_spain"></i
+              ><span class="languagefont">&#xe903;</span></a
+            >
+            <span class="copyright_split">|</span>
+            <a
+              class="mod_copyright_inter_lk"
+              href="//www.jd.co.th/?source=1&visitor_from=3"
+              target="_blank"
+              clstag="h|keycount|btm|btmnavi_null0505"
+              ><i class="mod_copyright_inter_ico mod_copyright_inter_ico_thailand"></i
+              ><span class="languagefont">&#xe900;</span></a
+            >
+          </p>
+          <p>
+            <span>京东旗下网站：</span> <a href="https://www.jdpay.com/" target="_blank">京东钱包</a
+            ><span class="copyright_split">|</span> <a href="//www.jcloud.com" target="_blank">京东云</a>
+          </p>
+        </div>
+        <p class="copyright_auth">
+          <a
+            id="urlknet"
+            class="copyright_auth_ico copyright_auth_ico_2"
+            onclick='CNNIC_change("urlknet")'
+            oncontextmenu="return!1"
+            href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005"
+            target="_blank"
+            >可信网站信用评估</a
+          >
+          <a class="copyright_auth_ico copyright_auth_ico_3" href="//www.cyberpolice.cn/" target="_blank"></a>
+          <a
+            class="copyright_auth_ico copyright_auth_ico_4"
+            href="https://search.szfw.org/cert/l/CX20120111001803001836"
+            target="_blank"
+            >诚信网站</a
+          >
+          <a class="copyright_auth_ico copyright_auth_ico_5" href="//www.12377.cn" target="_blank"
+            >中国互联网举报中心</a
+          >
+          <a class="copyright_auth_ico copyright_auth_ico_6" href="//www.12377.cn/node_548446.htm" target="_blank"
+            >网络举报APP下载</a
+          >
+          <a
+            class="copyright_auth_ico copyright_auth_ico_7"
+            href="//ggfw.cnipa.gov.cn:8010/PatentCMS_Center/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="
+              background-image: url('//img12.360buyimg.com/imagetools/jfs/t1/89057/27/24131/19491/621c3949E053e39b3/9e2e3ec54268ac9b.png');
+              overflow: hidden;
+              display: inline-block;
+              width: 103px;
+              height: 32px;
+              line-height: 1000px;
+              background-size: cover;
+            "
+            >国家知识产权公共服务网</a
+          >
+        </p>
+      </div>
+    </div>
+    <script src="//wl.jd.com/unify.min.js"></script>
+    <script src="https://storage.360buyimg.com/bjd-utils-sdk/library/polyfill.min.js"></script>
+    <script
+      type="text/javascript"
+      src="//misc.360buyimg.com/channel/gangao/2.0.0/global/1.0.0/widget/??,/service/service.js"
+    ></script>
+    <script type="text/JavaScript">
+      function CNNIC_change(e){var n=document.getElementById(e).href,t=n.substring(0,n.length-6);t+=CNNIC_RndNum(6),document.getElementById(e).href=t}function CNNIC_RndNum(e){for(var n="",t=0;t<e;t++)n+=Math.floor(10*Math.random());return n}!function(){var e=new Date;document.getElementById("copyright_year").innerHTML=e.getFullYear()}()
+    </script>
+    <script type="text/javascript">
+      seajs.use('//misc.360buyimg.com/jdf/1.0.0/unit/globalInit/5.0.0/globalInit.js', function (t) {
+        t()
+      })
+      var script = document.createElement('script')
+      script.setAttribute('type', 'text/javascript'),
+        script.setAttribute('src', 'https://storage.360buyimg.com/staticapp/o2_lib_static/head_elderly.js'),
+        document.getElementsByTagName('head')[0].appendChild(script)
+    </script>
+    <script
+      defer="defer"
+      src="https://storage.360buyimg.com/retail-mall/overseas_pc/pre/0.0.15/js/main.6a3aca52.js"
+    ></script>
+    <script type="text/javascript">
+        window.onload = (event) => {
+            var zhuzhanHtml = '<li class="areamini_inter_item"><a class="areamini_inter_lk" href="//www.jd.com/" target="_blank" clstag="h|keycount|head|topbar|01gl"><div class="areamini_inter_name">京东大陆</div></a></li>'; 
+            $( "#ttbar-mycity .areamini_inter_list" ).append(zhuzhanHtml);
+        };
+    </script>
+  </body>
+</html>
