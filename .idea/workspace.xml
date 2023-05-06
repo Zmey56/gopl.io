@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bc89cd-6a44-4919-861c-f21844021661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_10/360buy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_10/baidu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_10/exercise_1_10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_10/exercise_1_10.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_10/taobao.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_11/exercise_1_11.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_11/top-1m.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/Exercise_1_12/exercise_1_12.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +55,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230505_0001",
+    "com.google.cloudcode.ide_session_index": "20230506_0001",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch1",
@@ -84,25 +78,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ch1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="gopl.io" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="gopl.io" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -154,7 +129,8 @@
       <workItem from="1683105872565" duration="6054000" />
       <workItem from="1683125425375" duration="529000" />
       <workItem from="1683186783168" duration="2778000" />
-      <workItem from="1683270513593" duration="3723000" />
+      <workItem from="1683270513593" duration="4309000" />
+      <workItem from="1683357405222" duration="5614000" />
     </task>
     <servers />
   </component>
