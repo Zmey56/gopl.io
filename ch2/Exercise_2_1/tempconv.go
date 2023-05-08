@@ -3,7 +3,7 @@
 //temperatures in the Kelvin scale, where zero Kelvin is −273.15°C
 //and a difference of 1K has the same magnitude as 1°C.”
 
-package tempconv
+package Exercise_2_1
 
 import "fmt"
 
@@ -23,5 +23,3 @@ const (
 func (c Celsius) String() string    { return fmt.Sprintf("%g°C", c) }
 func (f Fahrenheit) String() string { return fmt.Sprintf("%g°F", f) }
 func (k Kelvin) String() string     { return fmt.Sprintf("%g°K", k) }
-
-//!-

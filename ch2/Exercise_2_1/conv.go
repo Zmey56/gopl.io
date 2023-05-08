@@ -1,11 +1,4 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-// See page 41.
-
-//!+
-
-package tempconv
+package Exercise_2_1
 
 // CToF converts a Celsius temperature to Fahrenheit.
 func CToF(c Celsius) Fahrenheit { return Fahrenheit(c*9/5 + 32) }
@@ -24,5 +17,3 @@ func FToK(f Fahrenheit) Kelvin { return Kelvin(((f - 32) * 5 / 9) + 279.15) }
 
 // KToF converts a Kelvin temperature to Fahrenheit.
 func KToF(k Kelvin) Fahrenheit { return Fahrenheit((k-279.15)*9/5 + 32) }
-
-//!-
