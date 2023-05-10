@@ -1,19 +1,15 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+package main
 
-// See page 45.
-
-// (Package doc comment intentionally malformed to demonstrate golint.)
-// !+
-package popcount
-
-import "log"
+import (
+	"log"
+	"strconv"
+)
 
 // pc[i] is the population count of i.
 var pc [256]byte
 
 func init() {
-	log.Println("pc", pc)
+	//log.Println("pc", pc)
 	for i := range pc {
 		pc[i] = pc[i/2] + byte(i&1)
 		//log.Println(i, "pc[i] -", pc[i], "pc[i/2] - ", pc[i/2], "i/2 - ", i/2, "byte(i&1) - ", byte(i&1), "i&1 - ", i&1)
@@ -32,4 +28,23 @@ func PopCount(x uint64) int {
 		pc[byte(x>>(7*8))])
 }
 
-//!-
+func PopCountByClearing(x uint64) int {
+	result := 0
+	for x != 0 {
+		tmp := strconv.FormatInt(int64(x), 2)
+		log.Println("1", x, " - ", tmp)
+		log.Println("2", x&(x-1))
+		x = x & (x - 1)
+		tmp1 := strconv.FormatInt(int64(x), 2)
+		log.Println("3", x, " - ", tmp1)
+
+		result++
+		log.Println("4", result)
+	}
+	return result
+
+}
+
+func main() {
+	log.Println(PopCountByClearing(0x1234567890ABCDEF))
+}

@@ -1,11 +1,4 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-// See page 45.
-
-// (Package doc comment intentionally malformed to demonstrate golint.)
-// !+
-package popcount
+package main
 
 import "log"
 
@@ -13,7 +6,7 @@ import "log"
 var pc [256]byte
 
 func init() {
-	log.Println("pc", pc)
+	//log.Println("pc", pc)
 	for i := range pc {
 		pc[i] = pc[i/2] + byte(i&1)
 		//log.Println(i, "pc[i] -", pc[i], "pc[i/2] - ", pc[i/2], "i/2 - ", i/2, "byte(i&1) - ", byte(i&1), "i&1 - ", i&1)
@@ -32,4 +25,20 @@ func PopCount(x uint64) int {
 		pc[byte(x>>(7*8))])
 }
 
-//!-
+// PopCountLoop returns the population count (number of set bits) of x in Loop.
+func PopCountShifting(x uint64) int {
+	result := 0
+	for i := uint64(0); i < 64; i++ {
+		log.Println(x)
+		log.Println(x & 1)
+		if x&1 != 0 {
+			result++
+		}
+		x = x >> 1
+	}
+	return result
+}
+
+func main() {
+	log.Println(PopCountShifting(1000))
+}
