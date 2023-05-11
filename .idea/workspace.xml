@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bc89cd-6a44-4919-861c-f21844021661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch2/Exercise_2_3/exercise_2_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/Exercise_2_3/popcount_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/Exercise_2_4/exercise_2_4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/Exercise_2_4/popcount_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/Exercise_2_5/exercise_2_5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_1/plot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/eggbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/moguls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/plot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/saddle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_3/plot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_4/plot.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/popcount/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/popcount/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +65,10 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230510_0001",
+    "com.google.cloudcode.ide_session_index": "20230511_0001",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch2/Exercise_2_4",
+    "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,35 +79,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch3" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_4" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_3" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_2" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_1" />
-      <recent name="$PROJECT_DIR$/ch1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_1" />
       <recent name="$PROJECT_DIR$/ch1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="gopl.io" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="gopl.io" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -161,6 +147,7 @@
       <workItem from="1683539917838" duration="3121000" />
       <workItem from="1683623713990" duration="3369000" />
       <workItem from="1683709455748" duration="6913000" />
+      <workItem from="1683792359602" duration="3934000" />
     </task>
     <servers />
   </component>
