@@ -1,15 +1,7 @@
-//“Exercise 3.5:
+// “Exercise 3.5:
 //Implement a full-color Mandelbrot set using the function image.NewRGBA
 //and the type color.RGBA or color.YCbCr.”
 
-// Mandelbrot emits a PNG image of the Mandelbrot fractal.
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-// See page 61.
-//!+
-
-// Mandelbrot emits a PNG image of the Mandelbrot fractal.
 package main
 
 import (
@@ -36,7 +28,7 @@ func main() {
 			img.Set(px, py, mandelbrot(z))
 		}
 	}
-	f, err := os.Create("mandelbrot.png")
+	f, err := os.Create("mandelbtot.png")
 	if err != nil {
 		panic(err)
 	}
@@ -53,8 +45,12 @@ func mandelbrot(z complex128) color.Color {
 	var v complex128
 	for n := uint8(0); n < iterations; n++ {
 		v = v*v + z
+		blue := uint8(255 - contrast*n)
+		red := uint8(255 - blue)
+		green := uint8(123)
+
 		if cmplx.Abs(v) > 2 {
-			return color.RGBA{n, 255 - contrast*n, 123, 255}
+			return color.RGBA{red, green, blue, 255}
 		}
 	}
 	return color.Black

@@ -17,13 +17,17 @@ import (
 	"image"
 	"image/color"
 	"image/png"
+	"log"
 	"math"
 	"math/big"
 	"math/cmplx"
 	"os"
+	"time"
 )
 
 func main() {
+	start := time.Now()
+
 	const (
 		xmin, ymin, xmax, ymax = -2, -2, +2, +2
 		width, height          = 1024, 1024
@@ -36,10 +40,10 @@ func main() {
 			x := float64(px)/width*(xmax-xmin) + xmin
 			z := complex(x, y)
 			// Image point (px, py) represents complex value z.
-			img.Set(px, py, mandelbrotRat(z))
+			img.Set(px, py, mandelbrotComplex128(z))
 		}
 	}
-	f, err := os.Create("mandelbtotRat.png")
+	f, err := os.Create("mandelbtot128.png")
 	if err != nil {
 		panic(err)
 	}
@@ -47,9 +51,80 @@ func main() {
 	png.Encode(f, img) // NOTE: ignoring errors
 
 	f.Close()
+
+	log.Println("Complex 128", time.Since(start))
+
+	start2 := time.Now()
+
+	img_2 := image.NewRGBA(image.Rect(0, 0, width, height))
+	for py := 0; py < height; py++ {
+		y := float64(py)/height*(ymax-ymin) + ymin
+		for px := 0; px < width; px++ {
+			x := float64(px)/width*(xmax-xmin) + xmin
+			z := complex(x, y)
+			// Image point (px, py) represents complex value z.
+			img.Set(px, py, mandelbrotComplex64(z))
+		}
+	}
+	f2, err := os.Create("mandelbtot64.png")
+	if err != nil {
+		panic(err)
+	}
+
+	png.Encode(f2, img_2) // NOTE: ignoring errors
+
+	f2.Close()
+
+	log.Println("Complex 64", time.Since(start2))
+
+	start3 := time.Now()
+
+	img_3 := image.NewRGBA(image.Rect(0, 0, width, height))
+	for py := 0; py < height; py++ {
+		y := float64(py)/height*(ymax-ymin) + ymin
+		for px := 0; px < width; px++ {
+			x := float64(px)/width*(xmax-xmin) + xmin
+			z := complex(x, y)
+			// Image point (px, py) represents complex value z.
+			img.Set(px, py, mandelbrotBigFloat(z))
+		}
+	}
+	f3, err := os.Create("mandelbtotBigFloat.png")
+	if err != nil {
+		panic(err)
+	}
+
+	png.Encode(f3, img_3) // NOTE: ignoring errors
+
+	f3.Close()
+
+	log.Println("Complex BigFLoat", time.Since(start3))
+
+	start4 := time.Now()
+
+	img_4 := image.NewRGBA(image.Rect(0, 0, width, height))
+	for py := 0; py < height; py++ {
+		y := float64(py)/height*(ymax-ymin) + ymin
+		for px := 0; px < width; px++ {
+			x := float64(px)/width*(xmax-xmin) + xmin
+			z := complex(x, y)
+			// Image point (px, py) represents complex value z.
+			img.Set(px, py, mandelbrotRat(z))
+		}
+	}
+	f4, err := os.Create("mandelbtotRat.png")
+	if err != nil {
+		panic(err)
+	}
+
+	png.Encode(f4, img_4) // NOTE: ignoring errors
+
+	f4.Close()
+
+	log.Println("Complex Rat", time.Since(start4))
 }
 
-func mandelbrot(z complex128) color.Color {
+func mandelbrotComplex128(z complex128) color.Color {
 	const iterations = 200
 	const contrast = 15
 
@@ -63,22 +138,17 @@ func mandelbrot(z complex128) color.Color {
 	return color.Black
 }
 
-func mandelbrot64(z complex128) color.Color {
+func mandelbrotComplex64(z complex128) color.Color {
 	const iterations = 200
 	const contrast = 15
+
+	z64 := complex64(z)
+
 	var v complex64
 	for n := uint8(0); n < iterations; n++ {
-		v = v*v + complex64(z)
+		v = v*v + z64
 		if cmplx.Abs(complex128(v)) > 2 {
-			switch {
-			case n > 50: // dark red
-				return color.RGBA{100, 0, 0, 255}
-			default:
-				// logarithmic blue gradient to show small differences on the
-				// periphery of the fractal.
-				logScale := math.Log(float64(n)) / math.Log(float64(iterations))
-				return color.RGBA{0, 0, 255 - uint8(logScale*255), 255}
-			}
+			return color.Gray{255 - contrast*n}
 		}
 	}
 	return color.Black

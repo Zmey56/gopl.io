@@ -5,18 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bc89cd-6a44-4919-861c-f21844021661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_1/plot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/eggbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/moguls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/plot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_2/saddle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_3/plot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_4/plot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_10/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_11/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_12/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_5/mandelbtot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_6/mandelbtot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_7/newton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_8/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_8/mandelbtot128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_8/mandelbtot64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_8/mandelbtotBigFloat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_9/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_1/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_1/plot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_2/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_2/plot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_3/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_3/plot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_4/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_5/acos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_5/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch3/Exercise_3_6/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_5/mandelbrot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_5/newton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_5/sqrt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_6/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch3/Exercise_3_7/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_6/mandelbtot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_7/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_7/mandelbtot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_8/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_8/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_8/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_8/mandelbtot.png" beforeDir="false" afterPath="$PROJECT_DIR$/ch3/Exercise_3_8/mandelbtot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_8/mandelbtot64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_8/mandelbtotBigFloat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_9/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GOROOT" url="file:///opt/homebrew/Cellar/go/1.20.4/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -65,30 +89,53 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230511_0001",
+    "com.google.cloudcode.ide_session_index": "20230513_0001",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch3",
+    "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch3/Exercise_3_12",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch3/Exercise_3_12" />
+      <recent name="$PROJECT_DIR$/ch3/Exercise_3_11" />
       <recent name="$PROJECT_DIR$/ch3" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_4" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_3" />
-      <recent name="$PROJECT_DIR$/ch2/Exercise_2_2" />
-      <recent name="$PROJECT_DIR$/ch2/Exercise_2_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch3" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_1" />
       <recent name="$PROJECT_DIR$/ch1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -147,7 +194,11 @@
       <workItem from="1683539917838" duration="3121000" />
       <workItem from="1683623713990" duration="3369000" />
       <workItem from="1683709455748" duration="6913000" />
-      <workItem from="1683792359602" duration="3934000" />
+      <workItem from="1683792359602" duration="4410000" />
+      <workItem from="1683879126672" duration="563000" />
+      <workItem from="1683879701193" duration="6498000" />
+      <workItem from="1683904499646" duration="662000" />
+      <workItem from="1683968791578" duration="7126000" />
     </task>
     <servers />
   </component>
