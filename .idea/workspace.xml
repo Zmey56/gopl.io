@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81bc89cd-6a44-4919-861c-f21844021661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch3/Exercise_3_13/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/Exercise_4_1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/Exercise_4_2/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch4/Exercise_4_2/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_10/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_11/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_12/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch3/ex_3_13/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -48,17 +54,17 @@
     "ACTIVE_CLOUD_PROJECT_NAME": "P2PTelegramFirst",
     "ACTIVE_CLOUD_PROJECT_NUMBER": "917216572592",
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultGoTemplateProperty": "Go File",
+    "DefaultGoTemplateProperty": "Go Application",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230515_0001",
+    "com.google.cloudcode.ide_session_index": "20230516_0001",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch3/Exercise_3_12",
+    "last_opened_file_path": "/Users/zmey56/Documents/My_Project/gopl.io/ch4/Exercise_4_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,11 +76,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch4/Exercise_4_2" />
       <recent name="$PROJECT_DIR$/ch3/Exercise_3_12" />
       <recent name="$PROJECT_DIR$/ch3/Exercise_3_11" />
       <recent name="$PROJECT_DIR$/ch3" />
       <recent name="$PROJECT_DIR$/ch2/Exercise_2_4" />
-      <recent name="$PROJECT_DIR$/ch2/Exercise_2_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ch3" />
@@ -165,7 +171,8 @@
       <workItem from="1683879701193" duration="6498000" />
       <workItem from="1683904499646" duration="662000" />
       <workItem from="1683968791578" duration="7681000" />
-      <workItem from="1684136007145" duration="1253000" />
+      <workItem from="1684136007145" duration="1979000" />
+      <workItem from="1684230076864" duration="3676000" />
     </task>
     <servers />
   </component>
