@@ -27,6 +27,7 @@ func main() {
 		if err == io.EOF {
 			break
 		}
+
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "charcount: %v\n", err)
 			os.Exit(1)

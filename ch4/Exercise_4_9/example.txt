@@ -1,0 +1,7 @@
+In this example, the file "example.txt" is opened using os.Open(). If there is an error opening the file, an error message is printed, and the program exits. The file is closed at the end using defer file.Close().
+
+A buffered reader reader is created using bufio.NewReader(). The ReadString('\n') function is used to read each line of the file. If an error occurs while reading, the program checks if it's the end of the file (EOF), and if so, breaks out of the loop. Any other reading error will be printed, and the program exits.
+
+Each line read from the file is then processed, in this case, simply printed to the console. You can modify the processing logic based on your requirements.
+
+Remember to replace "example.txt" with the actual file path you want to read.
