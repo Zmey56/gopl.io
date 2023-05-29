@@ -10,8 +10,8 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
 	"log"
+	"os"
 	"path/filepath"
 )
 
@@ -37,7 +37,7 @@ func breadthFirst(root string, visit func(path string)) error {
 
 		visit(current)
 
-		infos, err := ioutil.ReadDir(current)
+		infos, err := os.ReadDir(current)
 		if err != nil {
 			return err
 		}
